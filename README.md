@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/dariuscorvus/dariuscorvus)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/all/dariuscorvus)](https://badges.pufler.dev)
+### Stats
+<a href="https://github.com/DariusCorvus">
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DariusCorvus&show_icons=true&theme=vue-dark&include_aall_comimits=true&count_private=true"/></a>
 <!--
 **DariusCorvus/DariusCorvus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
