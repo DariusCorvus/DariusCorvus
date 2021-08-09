@@ -4,7 +4,7 @@
 [<a href="https://github.com/DariusCorvus">
   <img height="180rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DariusCorvus&show_icons=true&theme=vue-dark&include_aall_comimits=true&count_private=true"/></a>](url)-->
 <a href="https://github.com/DariusCorvus">
-  <img height="180rem" src="https://github-readme-streak-stats.herokuapp.com?user=DariusCorvus&theme=vue-dark"/></a>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=DariusCorvus&theme=vue-dark"/></a>
 <!--
 **DariusCorvus/DariusCorvus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
