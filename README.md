@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/dariuscorvus/dariuscorvus)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/all/dariuscorvus)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/dariuscorvus)](https://badges.pufler.dev)
 <!--
 **DariusCorvus/DariusCorvus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
