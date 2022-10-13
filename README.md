@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=1000&color=58A6FF&multiline=true&width=435&height=64&lines=Hey+there%2C+i'm+Darius+%F0%9F%91%8B;A+developer+from+Germany.)](https://git.io/typing-svg)
+
 [![Visits Badge](https://badges.pufler.dev/visits/dariuscorvus/dariuscorvus)](https://badges.pufler.dev)
 <!--### Stats
 [<a href="https://github.com/DariusCorvus">
