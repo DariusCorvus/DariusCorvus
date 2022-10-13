@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=1000&color=58A6FF&multiline=true&width=435&height=64&lines=Hey+there%2C+i'm+Darius+%F0%9F%91%8B;A+developer+from+Germany.)](https://git.io/typing-svg)
 
+### ⭐ Star Lists
+[![CLI](https://raw.githubusercontent.com/DariusCorvus/DariusCorvus/fa8af886d9d4ddf72dca9192a51a1dab6358451d/assets/lists/cli-tools.png)](https://github.com/stars/DariusCorvus/lists/cli-tools)
+
+
+<br><br><br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
