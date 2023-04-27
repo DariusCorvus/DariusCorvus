@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=1000&color=58A6FF&multiline=true&width=435&height=64&lines=Hey+there%2C+i'm+Darius+%F0%9F%91%8B;A+developer+from+Germany.)](https://git.io/typing-svg)
 
-[![CLI](https://readme-github-star-list.pages.dev/?username=DariusCorvus&list=cli-tools)](https://github.com/stars/DariusCorvus/lists/cli-tools)
-[![DATABASES](https://readme-github-star-list.pages.dev/?username=DariusCorvus&list=databases)](https://github.com/stars/DariusCorvus/lists/databases)
+[![CLI](https://readme-github-star-list.pages.dev?username=dariuscorvus&list=cli-tools)](https://github.com/stars/DariusCorvus/lists/cli-tools)
+[![DATABASES](https://readme-github-star-list.pages.dev?username=dariuscorvus&list=databases)](https://github.com/stars/DariusCorvus/lists/databases)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
