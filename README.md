@@ -2,9 +2,9 @@
 
 <!--### ⭐ Star List
 [![CLI](https://raw.githubusercontent.com/DariusCorvus/DariusCorvus/fa8af886d9d4ddf72dca9192a51a1dab6358451d/assets/lists/cli-tools.png)](https://github.com/stars/DariusCorvus/lists/cli-tools)]-->
-[![CLI](https://readme-github-star-list.pages.dev/?username=DariusCorvus&list=cli-tools)](https://github.com/stars/DariusCorvus/lists/cli-tools)
+<!--[![CLI](https://readme-github-star-list.pages.dev/?username=DariusCorvus&list=cli-tools)](https://github.com/stars/DariusCorvus/lists/cli-tools)-->
 
-<br><br><br>
+
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
